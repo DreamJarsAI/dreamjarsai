@@ -33,11 +33,6 @@ They connect the dots between our lines of code and real human beings. No champi
 1. **Follow Us**: Hit that follow button, or we’ll release a plague of adorable cat GIFs on your feed.  
 2. **Contribute**: Got a knack for coding, a passion for social justice, or a really awesome cookie recipe? We welcome all sorts of contributions!  
 3. **Spread the Word**: Share our repos with your coworker, your grandma, or that random cat that follows you home. Everyone deserves to know about the wonders of data for good.
+am-jars-ai-branch1
 
----
-Greetings, fellow data dreamers! W
-
-> **“Sometimes the smallest data point can lead to the mightiest solution.”**  
-> _— Possibly said by a wise AI, or maybe just us._
-Whimsy Come 
 So come on in, uncap your imaginative jar, and let’s whip up some data-driven dreams for a healthier, more equitable world. Because when **dreams** meet **data**, the sparks of change shine that much brighter.
